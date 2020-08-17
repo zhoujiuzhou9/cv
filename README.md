@@ -6,7 +6,7 @@
 
 + 資格：日本語一級　RHCE CTE4 SAA-CO2
 
-+ 言語： Java、Shell、VBA、C#、C++、PL/SQL、JS、MarkDown、HTML、Python、Ymal、ETL(PowerCenter)
++ 言語： Java、Shell、Python、VBA、C#、C++、PL/SQL、JS、MarkDown、HTML、、Ymal、ETL(PowerCenter)
 
 + DB ： Oracle、SQL Server、MySQL、Redis、Postgre、ASE/HANA
 
